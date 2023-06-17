@@ -15,10 +15,10 @@ You can click the Preview link to take a look at your changes.
 I'm a full-stack developer who is passionate about making open-source more accessible, enthusiast about latest technology and always open to learn. Some technologies I enjoy working with include ReactJS & NodeJS.
 In addition to this I am having a good sound of DevOps tools and methodology. I loved to work on
 Web Development and deploy the projects end-to-end. 
-<!-- For more about programming head to [Leetcode](https://leetcode.com/suraj0223/). -->
+<!-- For more about programming head to [Leetcode](https://leetcode.com/abhishekkh47/). -->
 
-`Specialities:` Python, React, NodeJS, MySql, Jenkins, Docker, Kubernetes 
-<!-- <img align="right" src="https://profile-counter.glitch.me/suraj0223/count.svg" /> -->
+`Specialities:` NodeJS, ExpressJs, MongoDB, React, MySql, Python, Jenkins, Docker, Kubernetes 
+<!-- <img align="right" src="https://profile-counter.glitch.me/abhishekkh47/count.svg" /> -->
 
 
 
@@ -56,7 +56,7 @@ Web Development and deploy the projects end-to-end.
 
 ## **Github Stats**
 
-<!-- ![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=suraj0223&show_icons=true&theme=dark) -->
+<!-- ![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=abhishekkh47&show_icons=true&theme=dark) -->
 ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekkh47)</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkh47&theme=cobalt&layout=compact)
 
